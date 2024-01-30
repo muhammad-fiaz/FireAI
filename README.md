@@ -2,7 +2,8 @@
 
 FireAI, an innovative chat-powered assistant, ignites seamless conversations, aiding users with smart responses. Experience cutting-edge AI technology on your fingertips for enhanced productivity and engaging interactions. Unleash the power of FireAI for personalized assistance and dynamic communication in your daily tasks.
 
-**This project is Still in Active Development**
+**Please note that this project is a work in progress, and certain features may be incomplete or subject to changes. If you want to contribute, make sure to fork the project and star 🌟 the repository.**
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
