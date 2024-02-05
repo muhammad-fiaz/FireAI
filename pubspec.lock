@@ -292,10 +292,10 @@ packages:
     dependency: "direct main"
     description:
       name: nb_utils
-      sha256: "4024a14aef48b39225ad8a56f9577021f79e6703026896e1f80b5fe90d14e07e"
+      sha256: b8dce23becabd393be5b44d82a5163d5fc8688eceff5d7d306a134f906eb8f7d
       url: "https://pub.dev"
     source: hosted
-    version: "6.1.1"
+    version: "6.1.2"
   nm:
     dependency: transitive
     description:
