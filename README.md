@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 <br>
 <div align="center">
 
-<h5> <strong> 💰 You can help me improve more by offering a little support on any platform❤️</strong></h5>
+<h5> <strong> 💰 You can help me improve more by offering a little support ❤️</strong></h5>
 
 
 [![Sponsor muhammad-fiaz](https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/muhammad-fiaz)
